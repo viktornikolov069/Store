@@ -7,7 +7,7 @@
 #include "Store.h"
 
 int main() {
-	//
+	
 	Store store;
 	std::string product;
 	std::string name;
